@@ -10,3 +10,5 @@ composer.phar
 composer.lock
 vagrant_ansible_inventory_default
 Vagrantfile
+/.local-evidence.json
+/.local-certification-runner/
